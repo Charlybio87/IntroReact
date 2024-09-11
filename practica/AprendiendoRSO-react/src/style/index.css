@@ -1,0 +1,8 @@
+body {
+  display: flex;
+  justify-content: center;
+  margin: 0;
+  background: #213547;
+  font-family: system-ui; 
+  color: white;
+}
